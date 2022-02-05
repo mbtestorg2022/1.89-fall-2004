@@ -42,13 +42,66 @@ The book is a comprehensive microbiology text. We will primarily rely on the cha
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 10 |
-| Assignments | 30 |
-| Midterms (2) | 30 |
-| Final Paper | 30 |
-| Total | 100 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterms (2)
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Participation includes engagement in discussions in class.
 
